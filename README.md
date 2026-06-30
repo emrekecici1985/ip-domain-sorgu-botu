@@ -4,7 +4,7 @@ Termux üzerinde herhangi bir harici eklenti (`pip`, `python`, `node` vb.) yükl
 
 > 💡 **Önemli Not:** Bu botu kurduktan sonra bir dahaki sorgu yapacağınız zamanlarda terminale sadece belirlediğimiz kısayol kelimesini (varsayılan olarak `sorgu`) yazıp, yanına hedefi ekleyerek **ENTER** demeniz yeterlidir. Eğer isterseniz aşağıdaki kurulum kodunun en sonundaki `alias sorgu=` kısmını değiştirerek bu kelimeyi tamamen kendinize göre de özelleştirebilirsiniz.
 
-> ## ❓ Sıkça Sorulan Sorular (SSS)
+## ❓ Sıkça Sorulan Sorular (SSS)
 
 **Soru: Türkiye merkezli siteleri (Getir, Yemeksepeti vb.) sorguladığımda neden Ülke kısmında Kanada (CA) veya İngiltere (GB) görünüyor?**
 
